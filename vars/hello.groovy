@@ -1,3 +1,3 @@
 def world() {
-    ech("hello world")
+    echo("hello world")
 }
