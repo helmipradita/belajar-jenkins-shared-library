@@ -1,4 +1,4 @@
-deff call() {
+def call() {
     "Helmi Pradita - Helmi Pradita Channel"
 }
 
